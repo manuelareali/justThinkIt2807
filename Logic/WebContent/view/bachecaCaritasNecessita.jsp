@@ -80,6 +80,7 @@ if (BachecaPersonaleBoundary.getInstance().eliminaNecessita(request.getParameter
 			</div>
 			<div class="content text-center my-5">
 				<table class="table table-hover">
+				<caption style = "visibility:hidden">New York City Marathon Results 2013</caption>
 					<thead>
 						<tr>
 							<th scope="col">ID NECESSITA'</th>
